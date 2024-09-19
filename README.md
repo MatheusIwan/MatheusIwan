@@ -1,26 +1,21 @@
 # Prazer Meu nome e Matheus #
-
-# Sobre mim
-Sou um desenvolvedor back-end iniciante especializado em **Java**. Atualmente, estou aprendendo e aprimorando minhas habilidades em desenvolvimento de software, com foco em criar APIs e serviços robustos.
+![DevMatheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusIwan&show_icons=true&theme=dracula)
 
 ### Tecnologias & Ferramentas ##
-- **Linguagem:** Java
-- **Frameworks:** Aprendendo Spring boot
-- **Banco de Dados:** Aprendendo MySQL
-- **Ferramentas:** Git
-- **Testes:** Aprendendo JUnit
+<div style="display: inline_block"><br/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
 
 ### O que estou aprendendo 🚀
 - Aprendendo Spring boot
 - Padrões de projeto em Java
 - Boas práticas de **Clean Code** e refatoração
 
-### Projetos Recentes 🌱
-1. **API de criacao de seminarios**: Um projeto simples para criar seminarios. [Veja aqui](https://github.com/MatheusIwan/SeminarCreatorApi).
-
 ### Como me encontrar
-- **GitHub:** [Seu GitHub](link-do-github)
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/matheus-iwan-234003308/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusIwan) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-iwan-234003308/)
 
 Sinta-se à vontade para explorar meus projetos e me dar feedback. Estou sempre aberto a aprender e colaborar!
 
